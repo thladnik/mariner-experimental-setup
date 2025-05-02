@@ -25,7 +25,7 @@ int sync_sig_cur = 0;
 int led_on_state = 0;
 long led_on_start_time_mu = 0;
 long led_on_end_time_mu = 0;
-int led_on_duration_mu = 4000;
+int led_on_duration_mu = 8000;
 
 long cur_time_mu = 0;
 
@@ -76,7 +76,7 @@ void loop() {
 
   // (optional) Set PMT gate output (original led_on_state or inverted version, depending on PMT type)
   // digitalWriteFast(pmtgateout, not(led_on_state));
-  digitalWriteFast(pmtgateout, led_on_state);
+  // digitalWriteFast(pmtgateout, led_on_state);
 
   sync_sig_last = sync_sig_cur;
   
