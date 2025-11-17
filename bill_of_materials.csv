@@ -24,15 +24,15 @@ Externally SM1-Threaded End Cap,Thorlabs,SM1CP2,2,Behavioral camera,
 Center mirror mount,3D printed,,1,Center assembly,
 Pyramid mirror mount,3D printed,,1,Center assembly,
 Bulb holder,3D printed,,1,Center assembly,
-Fish bowl,3D printed,,1,Center assembly,
-"Pyramid mirror Ø80mm x 26.5mm, four-sided, 136°",LT Ultra-Precision Technology GmbH,122680,1,Center assembly,
+Fishbowl,3D printed,,1,Center assembly,
+"Pyramid mirror Ø80mm x 26.5mm, four-sided, 136°",LT Ultra-Precision Technology GmbH,122680,1,Center assembly,M2
 "50 mm Dovetail Translation Stage, M6 x 1.0 Taps",Thorlabs,DTS50/M,2,Center assembly,Most linear trans. stages w/ M6 taps should work
 "34 mm Construction Rail, L = 500 mm",Thorlabs,XT34-500,1,Center assembly,Cut into 20 and 30cm piece
 "Magnetic Mounting Base, 50 mm x 75 mm x 10 mm",Thorlabs,BA2R/M,2,Center assembly,
 "Dovetail Mounting Clamp for 34 mm Rails, Metric",Thorlabs,XT34HP/M,2,Center assembly,
 "Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 30 mm",Thorlabs,TR30/M,2,Center assembly,
 "SM2 Lens Tube Without External Threads, 1"" Thread Depth",Thorlabs,SM2M10,1,Center assembly,
-"Ø2"" Broadband Dielectric Mirror, 400 - 750 nm",Thorlabs,BB2-E02,1,Center assembly,
+"Ø2"" Broadband Dielectric Mirror, 400 - 750 nm",Thorlabs,BB2-E02,1,Center assembly,M1
 "Slip Ring for SM2 Lens Tubes, M4 Tap",Thorlabs,SM2RC/M,1,Center assembly,
 Teensy breakout box,3D printed,,1,Lighting,
 "Socket connector, 36-pin, separable",BKL electronic,10120802,4,Lighting,Or similar socket connector
@@ -48,17 +48,17 @@ Lightcrafter mounting platform,3D printed,,1,Projector,
 Lightcrafter lens holder,3D printed,,1,Projector,
 "0.45"" DLP® Fiber couple E4500MKII™ Development Module LLG On Axis Projection",EKB technologies,DPM-FE4500MKIIFLLGOX,1,Projector,
 "7"" x 4"" Lab Jack, 2.26"" Vertical Travel, 75 lbs Load Capacity, M6 Taps",Thorlabs,L490/M,1,Projector,"This is mostly for convenience, 50 or 75mm 1/2"" posts should also work instead (4x TR50/M or 4x TR75/M)"
-"Ø1"" Achromatic Doublet, ARC: 400 - 700 nm, f = 60 mm",Thorlabs,AC254-060-A,1,Projector,
+"Ø1"" Achromatic Doublet, ARC: 400 - 700 nm, f = 60 mm",Thorlabs,AC254-060-A,1,Projector,L1
 "50 mm Dovetail Translation Stage, M6 x 1.0 Taps",Thorlabs,DTS50/M,2,Projector,Most linear trans. stages with M6 taps should work
 Set of jumper wires,,,~20,Projector,Any jumper wires compatible with choosen socket connector
 Angled slip ring holder for lenses,3D printed,,4,Radial arms,
 Angled holder for Kinematic mirror mount,3D printed,,4,Radial arms,
 Construction rail mount to dovetail rail carrier,3D printed,,4,Radial arms,
 "Slip Ring for SM2 Lens Tubes, M4 Tap",Thorlabs,SM2RC/M,4,Radial arms,
-"Kinematic Mirror Mount for Ø2"" Optics with Visible Laser Quality Mirror",Thorlabs,KM200-E02,4,Radial arms,
+"Kinematic Mirror Mount for Ø2"" Optics with Visible Laser Quality Mirror",Thorlabs,KM200-E02,4,Radial arms,M3
 "Dovetail Optical Rail, 300 mm, Metric",Thorlabs,RLA300/M,4,Radial arms,
 "Dovetail Rail Carrier, 50.8 mm x 25.4 mm, M6 Counterbore, M4 Taps",Thorlabs,RC2/M,8,Radial arms,
-"Ø2"" Achromatic Doublet, ARC: 400 - 700 nm, f = 75.0 mm",Thorlabs,AC508-075-A,4,Radial arms,
+"Ø2"" Achromatic Doublet, ARC: 400 - 700 nm, f = 75.0 mm",Thorlabs,AC508-075-A,4,Radial arms,L2
 "SM2 Lens Tube, 2"" Thread Depth, One Retaining Ring Included",Thorlabs,SM2L20,4,Radial arms,
 "25 mm Square Construction Rail, 225 mm Long, M6 Taps",Thorlabs,XE25L225/M,4,Radial arms,
 "Low-Profile T-Nut, M6 x 1.0 Tapped Hole, 10 Pack",Thorlabs,XE25T3/M,2,Radial arms,
