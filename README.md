@@ -20,8 +20,8 @@ This is the repository for MARINER - the **M**ultispectral **A**rena for **R**ea
 #### Center assembly
 ![MARINER center assembly](https://github.com/thladnik/mariner-experimental-setup/blob/main/components/MARINER_highlight_center.png)
 
-#### Side assembly
-![MARINER side assembly](https://github.com/thladnik/mariner-experimental-setup/blob/main/components/MARINER_highlight_side.png)
+#### Radial arms
+![MARINER radial arms](https://github.com/thladnik/mariner-experimental-setup/blob/main/components/MARINER_highlight_side.png)
 
-#### (optional) Camera
+#### (optional) Behavioral camera
 ![MARINER camera](https://github.com/thladnik/mariner-experimental-setup/blob/main/components/MARINER_highlight_camera.png)
