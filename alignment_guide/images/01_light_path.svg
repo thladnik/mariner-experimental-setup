@@ -19,15 +19,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.865625"
-     inkscape:cx="479.82552"
-     inkscape:cy="320"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="2149"
-     inkscape:window-y="291"
+     inkscape:zoom="1.0131514"
+     inkscape:cx="228.00145"
+     inkscape:cy="521.14618"
+     inkscape:window-width="2160"
+     inkscape:window-height="3734"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="g22" />
   <defs
      id="defs1">
     <marker
@@ -220,18 +220,18 @@
      id="line11" />
   <!-- 12 deg kinematic mirror -->
   <line
-     x1="106"
-     y1="223"
-     x2="174"
-     y2="237"
+     x1="146.42511"
+     y1="261.36023"
+     x2="170.80608"
+     y2="196.35585"
      stroke="#37474f"
      stroke-width="5"
      id="line12" />
   <line
-     x1="106"
-     y1="231"
-     x2="174"
-     y2="245"
+     x1="154.32823"
+     y1="262.60147"
+     x2="178.7092"
+     y2="197.59709"
      stroke="url(#hatch)"
      stroke-width="7"
      id="line13" />
@@ -269,21 +269,21 @@
      marker-end="url(#rayhead)"
      id="line16" />
   <line
-     x1="468"
-     y1="506"
-     x2="146"
-     y2="236"
+     x1="468.07187"
+     y1="506.08572"
+     x2="174.89107"
+     y2="260.25089"
      stroke="#d94f3d"
-     stroke-width="2.5"
+     stroke-width="2.27625"
      marker-end="url(#rayhead)"
      id="line17" />
   <line
-     x1="148"
-     y1="224"
-     x2="410"
-     y2="150"
+     x1="187.92297"
+     y1="211.91016"
+     x2="410.36328"
+     y2="149.08351"
      stroke="#d94f3d"
-     stroke-width="2.5"
+     stroke-width="2.12252"
      marker-end="url(#rayhead)"
      id="line18" />
   <!-- step badges -->
@@ -338,13 +338,13 @@
        id="text21">4</text>
     <circle
        cx="210"
-       cy="200"
+       cy="149.52103"
        r="13"
        fill="#37474f"
        id="circle22" />
     <text
        x="210"
-       y="205"
+       y="154.52103"
        fill="#ffffff"
        id="text22">5</text>
   </g>
