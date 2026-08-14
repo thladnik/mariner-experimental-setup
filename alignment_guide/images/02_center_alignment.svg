@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 960 560"
+   font-family="Helvetica, Arial, sans-serif"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="02_center_alignment.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.275"
+     inkscape:cx="480"
+     inkscape:cy="280"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="2149"
+     inkscape:window-y="291"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <defs
+     id="defs5">
+    <marker
+       id="bluehead"
+       markerWidth="9"
+       markerHeight="9"
+       refX="7"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M0,0 L8,4.5 L0,9 Z"
+         fill="#1a7fd4"
+         id="path1" />
+    </marker>
+    <marker
+       id="bluetail"
+       markerWidth="9"
+       markerHeight="9"
+       refX="1"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M8,0 L0,4.5 L8,9 Z"
+         fill="#1a7fd4"
+         id="path2" />
+    </marker>
+    <marker
+       id="redhead"
+       markerWidth="9"
+       markerHeight="9"
+       refX="7"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M0,0 L8,4.5 L0,9 Z"
+         fill="#d94f3d"
+         id="path3" />
+    </marker>
+    <marker
+       id="redtail"
+       markerWidth="9"
+       markerHeight="9"
+       refX="1"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M8,0 L0,4.5 L8,9 Z"
+         fill="#d94f3d"
+         id="path4" />
+    </marker>
+    <pattern
+       id="mesh"
+       width="7"
+       height="7"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="7"
+         height="7"
+         fill="#37474f"
+         id="rect4" />
+      <path
+         d="M0,0 H7 M0,0 V7"
+         stroke="#ffffff"
+         stroke-width="1"
+         id="path5" />
+    </pattern>
+    <pattern
+       id="hatch2"
+       width="6"
+       height="6"
+       patternTransform="rotate(45)"
+       patternUnits="userSpaceOnUse">
+      <line
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="6"
+         stroke="#90a4ae"
+         stroke-width="1.5"
+         id="line5" />
+    </pattern>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="960"
+     height="560"
+     fill="#ffffff"
+     id="rect5" />
+  <text
+     x="30"
+     y="40"
+     font-size="22"
+     font-weight="bold"
+     fill="#263238"
+     id="text5">Centering the image on the pyramidal mirror</text>
+  <!-- ================= Panel A : X ================= -->
+  <rect
+     x="25"
+     y="65"
+     width="290"
+     height="440"
+     rx="8"
+     fill="none"
+     stroke="#cfd8dc"
+     stroke-width="1.5"
+     id="rect6" />
+  <text
+     x="45"
+     y="95"
+     font-size="17"
+     font-weight="bold"
+     fill="#263238"
+     id="text6">X — slide the projector</text>
+  <text
+     x="45"
+     y="115"
+     font-size="13"
+     fill="#546e7a"
+     id="text7">(top view)</text>
+  <!-- pyramid top view -->
+  <circle
+     cx="170"
+     cy="205"
+     r="65"
+     fill="#eceff1"
+     stroke="#37474f"
+     stroke-width="2"
+     id="circle7" />
+  <line
+     x1="105"
+     y1="205"
+     x2="235"
+     y2="205"
+     stroke="#90a4ae"
+     stroke-width="1"
+     id="line7" />
+  <line
+     x1="170"
+     y1="140"
+     x2="170"
+     y2="270"
+     stroke="#90a4ae"
+     stroke-width="1"
+     id="line8" />
+  <ellipse
+     cx="145"
+     cy="182"
+     rx="19"
+     ry="14"
+     fill="url(#mesh)"
+     id="ellipse8" />
+  <ellipse
+     cx="195"
+     cy="182"
+     rx="19"
+     ry="14"
+     fill="url(#mesh)"
+     id="ellipse9" />
+  <ellipse
+     cx="145"
+     cy="228"
+     rx="19"
+     ry="14"
+     fill="url(#mesh)"
+     id="ellipse10" />
+  <ellipse
+     cx="195"
+     cy="228"
+     rx="19"
+     ry="14"
+     fill="url(#mesh)"
+     id="ellipse11" />
+  <!-- X image translation arrow -->
+  <line
+     x1="115"
+     y1="290"
+     x2="225"
+     y2="290"
+     stroke="#d94f3d"
+     stroke-width="2.5"
+     stroke-dasharray="6 4"
+     marker-end="url(#redhead)"
+     marker-start="url(#redtail)"
+     id="line11" />
+  <text
+     x="170"
+     y="312"
+     font-size="13"
+     fill="#d94f3d"
+     text-anchor="middle"
+     id="text11">X image translation</text>
+  <!-- projector -->
+  <rect
+     x="110"
+     y="390"
+     width="120"
+     height="46"
+     rx="4"
+     fill="#eceff1"
+     stroke="#37474f"
+     stroke-width="2"
+     id="rect11" />
+  <text
+     x="170"
+     y="418"
+     font-size="13"
+     fill="#263238"
+     text-anchor="middle"
+     id="text12">LightCrafter</text>
+  <line
+     x1="170"
+     y1="386"
+     x2="170"
+     y2="340"
+     stroke="#d94f3d"
+     stroke-width="2"
+     marker-end="url(#redhead)"
+     id="line12" />
+  <!-- translation stage arrow -->
+  <line
+     x1="90"
+     y1="465"
+     x2="250"
+     y2="465"
+     stroke="#1a7fd4"
+     stroke-width="3"
+     marker-end="url(#bluehead)"
+     marker-start="url(#bluetail)"
+     id="line13" />
+  <text
+     x="170"
+     y="490"
+     font-size="13"
+     fill="#1a7fd4"
+     text-anchor="middle"
+     id="text13">sideways translation stage</text>
+  <!-- ================= Panel B : Y ================= -->
+  <rect
+     x="335"
+     y="65"
+     width="290"
+     height="440"
+     rx="8"
+     fill="none"
+     stroke="#cfd8dc"
+     stroke-width="1.5"
+     id="rect13" />
+  <text
+     x="355"
+     y="95"
+     font-size="17"
+     font-weight="bold"
+     fill="#263238"
+     id="text14">Y — move the 45° mirror</text>
+  <text
+     x="355"
+     y="115"
+     font-size="13"
+     fill="#546e7a"
+     id="text15">(side view)</text>
+  <!-- vertical rail -->
+  <rect
+     x="390"
+     y="130"
+     width="14"
+     height="290"
+     fill="#cfd8dc"
+     stroke="#90a4ae"
+     stroke-width="1.5"
+     id="rect15" />
+  <text
+     x="370"
+     y="445"
+     font-size="13"
+     fill="#546e7a"
+     id="text16">optical rail</text>
+  <!-- mirror mount arm -->
+  <line
+     x1="404"
+     y1="220"
+     x2="470"
+     y2="220"
+     stroke="#90a4ae"
+     stroke-width="5"
+     id="line16" />
+  <!-- 45 deg mirror -->
+  <line
+     x1="452"
+     y1="248"
+     x2="498"
+     y2="202"
+     stroke="#37474f"
+     stroke-width="5"
+     id="line17" />
+  <line
+     x1="456"
+     y1="255"
+     x2="502"
+     y2="209"
+     stroke="url(#hatch2)"
+     stroke-width="7"
+     id="line18" />
+  <text
+     x="508"
+     y="212"
+     font-size="13"
+     fill="#263238"
+     id="text18">45° mirror</text>
+  <!-- incoming + down ray -->
+  <line
+     x1="590"
+     y1="225"
+     x2="486"
+     y2="225"
+     stroke="#d94f3d"
+     stroke-width="2"
+     marker-end="url(#redhead)"
+     id="line19" />
+  <line
+     x1="475"
+     y1="232"
+     x2="475"
+     y2="330"
+     stroke="#d94f3d"
+     stroke-width="2"
+     marker-end="url(#redhead)"
+     id="line20" />
+  <!-- up-down arrow on rail -->
+  <line
+     x1="378"
+     y1="180"
+     x2="378"
+     y2="290"
+     stroke="#1a7fd4"
+     stroke-width="3"
+     marker-end="url(#bluehead)"
+     marker-start="url(#bluetail)"
+     id="line21" />
+  <text
+     x="-208.9007"
+     y="348.34766"
+     font-size="13px"
+     fill="#1a7fd4"
+     text-anchor="end"
+     id="text21"
+     transform="rotate(-90)">up–down</text>
+  <text
+     x="-217.54192"
+     y="364.34766"
+     font-size="13px"
+     fill="#1a7fd4"
+     text-anchor="end"
+     id="text22"
+     transform="rotate(-90)">on rail</text>
+  <!-- front-back arrow in slip ring -->
+  <line
+     x1="451.71573"
+     y1="137.71573"
+     x2="508.28427"
+     y2="194.28427"
+     stroke="#1a7fd4"
+     stroke-width="3"
+     marker-end="url(#bluehead)"
+     marker-start="url(#bluetail)"
+     id="line22" />
+  <text
+     x="549.31299"
+     y="147"
+     font-size="13px"
+     fill="#1a7fd4"
+     text-anchor="middle"
+     id="text23">front–back in slip ring</text>
+  <!-- pyramid side view -->
+  <polygon
+     points="410,390 475,350 540,390"
+     fill="#eceff1"
+     stroke="#37474f"
+     stroke-width="2"
+     id="polygon23" />
+  <rect
+     x="410"
+     y="390"
+     width="130"
+     height="13"
+     fill="#cfd8dc"
+     stroke="#37474f"
+     stroke-width="2"
+     id="rect23" />
+  <text
+     x="475"
+     y="425"
+     font-size="13"
+     fill="#263238"
+     text-anchor="middle"
+     id="text24">pyramidal mirror</text>
+  <!-- Y image translation -->
+  <line
+     x1="420"
+     y1="460"
+     x2="530"
+     y2="460"
+     stroke="#d94f3d"
+     stroke-width="2.5"
+     stroke-dasharray="6 4"
+     marker-end="url(#redhead)"
+     marker-start="url(#redtail)"
+     id="line24" />
+  <text
+     x="475"
+     y="483"
+     font-size="13"
+     fill="#d94f3d"
+     text-anchor="middle"
+     id="text25">Y image translation (combine both)</text>
+  <!-- ================= Panel C : goal ================= -->
+  <rect
+     x="645"
+     y="65"
+     width="290"
+     height="440"
+     rx="8"
+     fill="none"
+     stroke="#cfd8dc"
+     stroke-width="1.5"
+     id="rect25" />
+  <text
+     x="665"
+     y="95"
+     font-size="17"
+     font-weight="bold"
+     fill="#263238"
+     id="text26">Goal</text>
+  <circle
+     cx="790"
+     cy="250"
+     r="90"
+     fill="#eceff1"
+     stroke="#37474f"
+     stroke-width="2"
+     id="circle26" />
+  <line
+     x1="700"
+     y1="250"
+     x2="880"
+     y2="250"
+     stroke="#90a4ae"
+     stroke-width="1"
+     id="line26" />
+  <line
+     x1="790"
+     y1="160"
+     x2="790"
+     y2="340"
+     stroke="#90a4ae"
+     stroke-width="1"
+     id="line27" />
+  <ellipse
+     cx="757"
+     cy="219"
+     rx="26"
+     ry="20"
+     fill="url(#mesh)"
+     id="ellipse27" />
+  <ellipse
+     cx="823"
+     cy="219"
+     rx="26"
+     ry="20"
+     fill="url(#mesh)"
+     id="ellipse28" />
+  <ellipse
+     cx="757"
+     cy="281"
+     rx="26"
+     ry="20"
+     fill="url(#mesh)"
+     id="ellipse29" />
+  <ellipse
+     cx="823"
+     cy="281"
+     rx="26"
+     ry="20"
+     fill="url(#mesh)"
+     id="ellipse30" />
+  <circle
+     cx="790"
+     cy="250"
+     r="4"
+     fill="#2e9e4f"
+     id="circle30" />
+  <g
+     transform="translate(700,388)"
+     id="g31">
+    <circle
+       cx="0"
+       cy="0"
+       r="13"
+       fill="#2e9e4f"
+       id="circle31" />
+    <path
+       d="M-6,0 L-2,5 L7,-5"
+       stroke="#ffffff"
+       stroke-width="2.5"
+       fill="none"
+       id="path31" />
+  </g>
+  <text
+     x="722"
+     y="393"
+     font-size="14"
+     fill="#263238"
+     id="text31">Four symmetric lobes,</text>
+  <text
+     x="722"
+     y="412"
+     font-size="14"
+     fill="#263238"
+     id="text32">centered on the apex</text>
+  <text
+     x="665"
+     y="450"
+     font-size="13"
+     fill="#546e7a"
+     id="text33">one lobe per mirror facet → one per</text>
+  <text
+     x="665"
+     y="468"
+     font-size="13"
+     fill="#546e7a"
+     id="text34">projection arm</text>
+</svg>
