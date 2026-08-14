@@ -10,6 +10,10 @@ This is the repository for MARINER - the **M**ultispectral **A**rena for **R**ea
 
 [Bill of materials](https://github.com/thladnik/mariner-experimental-setup/blob/main/bill_of_materials.csv)
 
+[Alignment guide](https://github.com/thladnik/mariner-experimental-setup/blob/main/alignment_guide/README.md)
+
+[Explosion animations](https://github.com/thladnik/mariner-experimental-setup/blob/main/accessibility)
+
 [Printable components](https://github.com/thladnik/mariner-experimental-setup/tree/main/printed_parts) (Mesh and design files)
 
 ### Components
