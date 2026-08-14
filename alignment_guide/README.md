@@ -9,7 +9,10 @@ This tutorial explains how the projection light path of the spherical MARINER st
 
 The setup projects visual stimuli onto a **glass sphere** using a **single video projector** whose image is split into **four separate projections**, one per side of the sphere.
 
-The main components are:
+The visual transform required for the four-sided clover projection is available in the accompanying stimulation software [vxPy](https://github.com/thladnik/vxpy). 
+The MARINER setup calibration may be started using vxPy's calibration function (`vxpy -c path/to/config.yaml calibrate`). For further information please refer to the software documentation.
+
+The main hardware components are:
 
 | Component                                                                          | Role |
 |------------------------------------------------------------------------------------|---|
